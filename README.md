@@ -4,6 +4,8 @@ This guide explains how to **deploy the Student Dropout Early Warning System** b
 
 ---
 ## User-Interface
+Click the link below and veiw the GUI to understand more quickly
+[Streamlit.io Link](https://dgzfytanvhc4dnhxkwiip8.streamlit.app/)
 
 ## Prerequisites
 
@@ -21,7 +23,7 @@ Before deploying, ensure you have:
 ### 1. Clone the repository
 
 ```bash
-  git clone https://github.com/Alisha786535/Dropout-Predict-ML-hackathon-project.git
+[git clone](https://github.com/Alisha786535/Dropout-Predict-ML-hackathon-project.git/)
   cd Dropout-Predict-ML-hackathon-project
 ```
 ### 2. Create a virtual environment
