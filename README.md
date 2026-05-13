@@ -3,8 +3,9 @@
 This guide explains how to **deploy the Student Dropout Early Warning System** built with **Streamlit**.
 
 ---
+## User-Interface
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 Before deploying, ensure you have:
 
@@ -15,7 +16,7 @@ Before deploying, ensure you have:
 
 ---
 
-## 🛠 Local Deployment
+## Local Deployment
 
 ### 1. Clone the repository
 
